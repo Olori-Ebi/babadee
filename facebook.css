@@ -1,0 +1,101 @@
+body {
+    width: 700px;
+    margin: auto;
+    padding: 0;
+}
+
+#facebook {
+    background-color: blue;
+    padding: 0;
+    margin: auto;
+    float: left;
+    width: 90%;
+}
+.fb {
+    float: left;
+    color: white;
+}
+
+.create {
+    float: right;
+    color:white;
+    background-color: green;
+    border: 1px solid green;
+    padding: 10px;
+}
+#getfb {
+    width: 90%;
+    padding: 0;
+    margin: auto;
+}
+img {
+    float: left;
+    width: 50px;
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#get {
+    background-color: #f1f1c1;
+    padding-left: 0;
+    margin: auto;
+    float: left;
+    width: 90%;
+     border-bottom: 1px solid yellow;
+}
+.getfb {
+    width: 70%;
+    padding: 0;
+    float: left;
+    background-color: #f1f1c1;
+}
+.container {
+    background-color: #cccccc;
+    padding:10px;
+    width: 87%;
+    padding-bottom: 20px;
+}
+input {
+    padding: 20px;
+    width: 93%
+}
+label {
+    color: grey;
+    width: 100%;
+    padding:5px;
+}
+button {
+    background-color: blue;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+.CreateNew {
+    background-color: green;
+    text-align: center;
+    width: 25%;
+    padding: 10px;
+    color: white;
+}
+div.container button.CreateNew {
+    text-align: center;
+}
+
+.lfooter {
+    background-color: darkslategrey;
+    color: #A9A9A9;
+    float: left;
+    width: 30%;
+}
+.rfooter {
+    background-color: darkslategrey;
+    color: #A9A9A9;
+    float: right;
+    width: 30%;
+}
+#footer {
+    background-color: darkslategrey;
+    width: 89%;
+    padding: 0;
+    margin: auto;
+}
