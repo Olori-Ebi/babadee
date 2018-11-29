@@ -41,13 +41,18 @@ img {
     margin: auto;
     float: left;
     width: 90%;
-     border-bottom: 1px solid yellow;
+    border-bottom: 1px solid yellow;
 }
 .getfb {
     width: 70%;
     padding: 0;
     float: left;
     background-color: #f1f1c1;
+}
+#cont {
+    width: 100%;
+    padding: 0;
+    margin: auto;
 }
 .container {
     background-color: #cccccc;
@@ -82,20 +87,24 @@ div.container button.CreateNew {
 }
 
 .lfooter {
-    background-color: darkslategrey;
-    color: #A9A9A9;
     float: left;
-    width: 30%;
+    width: 20%;
 }
 .rfooter {
-    background-color: darkslategrey;
-    color: #A9A9A9;
-    float: right;
-    width: 30%;
+    float: left;
+    width: 20%;
 }
+
 #footer {
     background-color: darkslategrey;
-    width: 89%;
+    color: #A9A9A9;
+    padding-left: 0;
+    margin: auto;
+    float: left;
+    width: 90%;
+}
+#foot {
+    width: 100%;
     padding: 0;
     margin: auto;
 }
